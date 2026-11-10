@@ -1,0 +1,23 @@
+{
+  "version": 4,
+  "name": "SPSSStatistics",
+  "request": "create a perfect  replica of spss make it light weight and seemless",
+  "target": {
+    "kind": "local",
+    "path": "C:\\Users\\sharath\\Downloads\\SPSSStatistics.exe"
+  },
+  "stack": "Rust + egui (eframe)",
+  "status": "building",
+  "note": "The builder stopped (Claude Code stopped: You've hit your 5-hour limit · resets 3:20am (Asia/Kolkata)). Picking up where it left off…",
+  "created_ms": 1794330323600,
+  "updated_ms": 1794333922605,
+  "checks": [],
+  "agent_session": "8d9817ed-dc6c-4e0f-a4af-f774c0a8f455",
+  "agent_session_by": "claude-code",
+  "agent_session_deep": false,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "builder": "Claude Code"
+}

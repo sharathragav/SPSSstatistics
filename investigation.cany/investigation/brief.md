@@ -1,0 +1,16 @@
+# Brief
+
+**Question:** Rebuild a lightweight desktop statistics package with the same core features as the person's statistics program: a data editor (data and variable views), menus for data handling, transforms, analyses and charts, and an output viewer with result tables.
+
+**Purpose:** The person wants a light, smooth replacement for a heavy statistics package.
+
+**Targets:**
+- C:\Users\sharath\Downloads\SPSSStatistics.exe
+
+**Constraints:**
+- Clean room: nothing inside the original is read or run
+- No reference pictures were provided; layout comes from the request and general knowledge of this kind of program
+- Rust + egui, built in app/
+- No brand names or logos; neutral app name
+
+**Done when:** The app builds, opens with a data grid, variable view, working analysis menus (descriptives, frequencies, crosstabs, t-tests, ANOVA, correlation, regression, charts), an output viewer, CSV open/save, and a --screenshot option that saves a non-blank picture.

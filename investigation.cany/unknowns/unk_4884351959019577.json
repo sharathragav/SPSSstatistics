@@ -1,0 +1,13 @@
+{
+  "id": "unk_4884351959019577",
+  "revision": 1,
+  "question": "Which analyses and file formats does the person rely on most (e.g. native data files, Excel, syntax scripts)?",
+  "severity": "medium",
+  "domain": "features",
+  "status": "open",
+  "probes": [
+    "Ask the person which procedures they use day to day"
+  ],
+  "evidence_for": [],
+  "evidence_against": []
+}

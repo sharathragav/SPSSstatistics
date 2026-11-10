@@ -1,0 +1,14 @@
+{
+  "id": "unk_4a9bbfdad700dff3",
+  "revision": 1,
+  "question": "What does the original look like on screen (colours, toolbar icons, exact menu items)? No reference picture or capture of it running exists.",
+  "severity": "high",
+  "domain": "ui",
+  "status": "open",
+  "probes": [
+    "Person adds screenshots of the original to reference/",
+    "Person describes which screens matter most"
+  ],
+  "evidence_for": [],
+  "evidence_against": []
+}
